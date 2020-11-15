@@ -170,13 +170,13 @@ p{
   padding : 7% 15%;
 }
 .creator-img{
-  margin: 2rem;
+  margin: 10%;
   width: 50%;
   border-radius: 50%;
 }
 
 .contact-logo{
-  padding: 2rem;
+  padding: 10%;
   color: white;
 }
 .contact-logo:hover{

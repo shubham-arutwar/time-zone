@@ -162,6 +162,11 @@ p{
   color: #fff;
   padding : 7% 15%;
 }
+
+.my-intro{
+  text-align: left;
+  padding-top: 10%;
+}
 .creator-img{
   margin: 10%;
   width: 50%;
